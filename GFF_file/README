@@ -1,1 +1,2 @@
 This folder contains the annotated GFF file for O. glaberrima (version OglaRS2). Please unzip the file before opening/using it.
+For the command line use: `tar -xvf *.tar.gz`
